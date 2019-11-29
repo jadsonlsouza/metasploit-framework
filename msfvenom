@@ -363,3 +363,4 @@ else
   # trailing newline for pretty output
   $stderr.puts unless payload =~ /\n$/
 end
+
