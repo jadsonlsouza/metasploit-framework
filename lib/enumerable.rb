@@ -38,6 +38,7 @@ module Enumerable
           b.each do |n|
             result << a + [n]
           end
+          
         end
       end
       if block_given?
